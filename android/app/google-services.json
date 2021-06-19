@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "625319021975",
+    "firebase_url": "https://iare-tech-fest-default-rtdb.firebaseio.com",
+    "project_id": "iare-tech-fest",
+    "storage_bucket": "iare-tech-fest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625319021975:android:3320086011f65c300f48d2",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625319021975-vaua421b4v0gaj2ckc1lu75gbia2eem2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled",
+            "certificate_hash": "ccd54bd42b89e4f30cbc3393980573dc2e31de16"
+          }
+        },
+        {
+          "client_id": "625319021975-udd69iksqv68hmtv6131j2jt8p4hdkq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9YJL7bdZuzeN-YL9Mp6maIuUCIeiOopk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625319021975-udd69iksqv68hmtv6131j2jt8p4hdkq9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625319021975-fsku0onj1n5e98jtrbn578afkaqr1lbe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iare.eventx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625319021975:android:41afedeaeeb914180f48d2",
+        "android_client_info": {
+          "package_name": "com.iare.eventx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625319021975-udd69iksqv68hmtv6131j2jt8p4hdkq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9YJL7bdZuzeN-YL9Mp6maIuUCIeiOopk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625319021975-udd69iksqv68hmtv6131j2jt8p4hdkq9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625319021975-fsku0onj1n5e98jtrbn578afkaqr1lbe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iare.eventx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
